@@ -17,7 +17,7 @@
                                <configuration>
                                    <url>http://54.245.7.246:8081/manager/text</url>
                                    <server>kurshid</server>
-                                   <path>/mycontext</path>
+                                   <path>/mycontext-1</path>
                                    <username>admin</username>
                                    <password>admin</password>
 				</configuration>
